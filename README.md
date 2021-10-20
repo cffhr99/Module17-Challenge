@@ -43,3 +43,4 @@ The project used the credit card credit dataset from LendingClub, a peer-to-peer
   - Low Risk Recall: 0.94
 
 ## Summary:
+According to the results of six models above, the easy ensemble adaboost classifier to yield the best metrics for classification of high risk and low risk loan application. Both easy ensemble adaboost classifier and balanced random forest classifier performed significantly better than logistic models with resampling techniques. Among these four resampling methods on logistic models, there is no significant improvement between them.
